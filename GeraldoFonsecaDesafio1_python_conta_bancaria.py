@@ -61,8 +61,12 @@ while True:
             print('Atingiu o limite diário de saques')
     elif opcao=='3':
         print('Extrato')
-        for values in range(len(extrato)):
-            print(extrato[values])
+        if len(extrato)==0:
+            print('Não foram realizadas movimentações.')
+        else:
+            for values in range(len(extrato)):
+                print(extrato[values])
+            print(f'Saldo conta: R${saldo:.2f}')
     elif opcao.lower()=='q':
         print('Obrigado por nos escolher. Operação finalizada')
         break
