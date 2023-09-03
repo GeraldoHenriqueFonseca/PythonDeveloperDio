@@ -53,7 +53,7 @@ while True:
             elif valor_saque>500:
                 print('Limite máximo de saque é de R$500,00')
             else:
-                print('teste saque')
+                print('Saque')
                 saldo = saque(valor_saque, saldo)
                 extrato.append(f'Saque: R${valor_saque:.2f}')
                 qtd_saques+=1
