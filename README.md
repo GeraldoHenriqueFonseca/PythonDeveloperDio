@@ -7,4 +7,4 @@ O primeiro projeto é bem simples e simula o depósito e saque de um usário com
 
 Esse o arquivo tem o nome GeraldoFonsecaDesafio1_python_conta_bancaria
 
-O segundo é GeraldoFonsecaDesafio2_refinamento_python_conta_bancaria
+O segundo é GeraldoFonsecaDesafio2_python_conta_bancaria
