@@ -1,7 +1,7 @@
 ###############################################################################
 # Geraldo Henrique Fonseca
 # Projeto básico sistema bancário
-# Simula saque, depósito e mostra o extrato de uma conta
+# Simula saque, depósito, crição de usuário, criação de conta e mostra o extrato de uma conta
 # Limite diário de cada saque é 500 e só pode fazer 3 saques ao mesmo dia
 # Tem que avaliar se tem saldo suficiente, não pode deixar o saldo ser negativo
 ###############################################################################
